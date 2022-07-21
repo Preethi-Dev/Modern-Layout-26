@@ -95,6 +95,11 @@ main .text {
 
 main .text h1 {
   font-size: 4rem;
+  line-height: 72px;
+}
+
+main .text p {
+  padding: 1rem;
 }
 
 footer {
@@ -115,6 +120,7 @@ footer {
 
   main .text h1 {
     font-size: 5rem;
+    line-height: 96px;
   }
 
   footer {
@@ -154,6 +160,7 @@ footer {
 
   main .text p {
     max-width: 800px;
+    padding: 0;
   }
 
   footer {
