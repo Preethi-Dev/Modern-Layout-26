@@ -82,7 +82,7 @@ main {
   grid-template-areas:
     "image image image image"
     "text text text text";
-  grid-auto-rows: 1fr;
+  grid-auto-rows: 1fr 0.5fr;
 }
 
 main .image {
